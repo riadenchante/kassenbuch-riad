@@ -1,0 +1,1 @@
+/* App.js siehe Canvas – hier einzufügen bei Nutzung */
